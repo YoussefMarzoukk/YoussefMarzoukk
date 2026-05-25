@@ -1,16 +1,33 @@
-## Hi there 👋
+# Youssef Marzouk
 
-<!--
-**YoussefMarzoukk/YoussefMarzoukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Engineer with a background in QA automation, API testing, and fintech systems.
 
-Here are some ideas to get you started:
+I work with Java, Spring Boot, REST APIs, SQL, Kafka, and automated testing. My QA background helps me build backend systems with stronger attention to edge cases, reliability, testability, and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Backend:** Java, Spring Boot, REST APIs, JPA/Hibernate, SQL
+- **Testing:** JUnit, Mockito, REST Assured, Postman, Playwright, Selenium
+- **Messaging:** Kafka
+- **Tools:** Docker, Git, GitHub Actions
+- **Languages:** Java, TypeScript, JavaScript, Python
+- **Cloud:** AWS fundamentals
+
+## Certifications
+
+- Confluent Certified Developer for Apache Kafka
+- ISTQB Certified Tester Foundation Level v4.0
+
+## Current Focus
+
+- Java backend development
+- REST API design
+- Database modeling
+- Kafka/event-driven systems
+- Automated backend testing
+- Clean architecture
+
+## Contact
+
+- GitHub: [YoussefMarzoukk](https://github.com/YoussefMarzoukk)
+- LinkedIn: [youssefkm](https://www.linkedin.com/in/youssefkm/)
